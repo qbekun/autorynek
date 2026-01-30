@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "autorynek",
+  "version": "1.0",
+  "name": "AutoRynek",
+  "description": "Auto Rynek",
+  "authors": [
+    "lipinekrynek"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/autorynek/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "lipinekrynek.autorynek.AutoRynkClient"
+    ]
+  },
+  "mixins": [
+    "autorynek.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.4",
+    "minecraft": "~1.21.4",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "lipinekrynek.autorynek.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "client": [
+    "ClientPlayNetworkHandlerMixin",
+    "ChatScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "refmap": "autorynek-refmap.json"
+}
