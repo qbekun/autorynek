@@ -19,4 +19,6 @@ Mod można zbudować za pomocą Gradle:
 Wynikowy plik `.jar` będzie znajdował się w folderze `build/libs`.
 
 ## Autor
+
 - lipinek (Pewnie nie jest autorem)
+https://www.youtube.com/watch?v=rUy5_oe3vSg
